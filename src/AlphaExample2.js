@@ -19,7 +19,7 @@ async function main(){
 
 	VT100.reset();
 	VT100.cursorMove(21,1);
-	VT100.print("프로그램 끝!")
+	VT100.print("프로그램 끝")
 
 }
 
